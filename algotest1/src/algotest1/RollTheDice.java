@@ -75,8 +75,6 @@ public class RollTheDice {
 
 		System.out.println(sum);
 
-
-
 	}
 
 }
