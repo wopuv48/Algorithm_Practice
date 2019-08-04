@@ -1,4 +1,4 @@
-# Algorithm_Practice_for_Tests
+# Algorithm
 
 새로운 나의 알고리즘 공부용 Repository!
 
